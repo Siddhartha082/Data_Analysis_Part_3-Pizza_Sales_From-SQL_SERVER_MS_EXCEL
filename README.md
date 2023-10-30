@@ -1,5 +1,5 @@
 ### -----------------------------The Final Chapter ------------------------------------------------------------
-## Data_Analysis_Part_3-Pizza_Sales-Dataset( Import Data from  MS SQL SERVER  to  MS EXCEL)
+## Data_Analysis_Part_3-Pizza_Sales-Dataset( Flat file Transfer from MS SQL SERVER  to  MS EXCEL- connection)
 ### Complete Work flow - implemetation - Customization have been documented (scren shot) in PDF file (step by step)
 ### Note - Excel Main File(Dashboard -Pivot table-Calculations-Charts) is Password Protected . This will be shared on request .. Thank You
 

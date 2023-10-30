@@ -1,6 +1,7 @@
 ### -----------------------------The Final Chapter ------------------------------------------------------------
 ## Data_Analysis_Part_3-Pizza_Sales-Dataset( Import Data from  MS SQL SERVER  to  MS EXCEL)
 ### Complete Work flow - implemetation - Customization have been documented (scren shot) in PDF file (step by step)
+### Note - Excel Main File(Dashboard -Pivot table-Calculations-Charts) is Password Protected . This will be shared on request .. Thank You
 
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/575ec7b6-bed4-4c6d-8e0b-bf1e1d6b73ad)
 

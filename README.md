@@ -24,10 +24,6 @@
 
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/96cd28a2-708d-42cb-b2d4-cf6680106f17)
 
-![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/db1b253d-5984-4669-be0e-5c0bef4a6511)
-
-![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/78df8729-fcd6-4aff-93bf-8e2eab64e9eb)
-
 
 # Data Validation from EXCEL Chart( Through Pivot Table) to SQL Queries from SQL SERVER
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/f32b48c1-fea7-4111-afa4-74058f36d3ef)
@@ -50,6 +46,11 @@
 
 
 # The Final Report of Pizza Sales 
+
+![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/db1b253d-5984-4669-be0e-5c0bef4a6511)
+
+![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/78df8729-fcd6-4aff-93bf-8e2eab64e9eb)
+
 ![image](https://github.com/Siddhartha082/Data_Analysis_Part_3-Pizza_Sales_From-SQL_SERVER_MS_EXCEL/assets/110781138/cdd405fa-9cf4-495f-b9fd-706b64b7cc6b)
 
 
